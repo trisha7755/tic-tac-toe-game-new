@@ -1,0 +1,5 @@
+{
+  "name": "React Tic Tac Toe",
+  "description": "A classic Tic Tac Toe game for two players, built with React and TypeScript, and styled with Tailwind CSS for a modern and clean user interface.",
+  "requestFramePermissions": []
+}
